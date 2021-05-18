@@ -1,0 +1,1064 @@
+fileFormatVersion: 2
+guid: 3341e5c2d02df0346bb3e9670c9b5ec2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 829901911245444905
+    second: inventroy_all_0
+  - first:
+      213: -153805168565860556
+    second: inventroy_all_1
+  - first:
+      213: 1606422539053156384
+    second: inventroy_all_2
+  - first:
+      213: 3914929890118115771
+    second: inventroy_all_3
+  - first:
+      213: -4237516471701419783
+    second: inventroy_all_4
+  - first:
+      213: -2699252461837319932
+    second: inventroy_all_5
+  - first:
+      213: 8729539003655184029
+    second: inventroy_all_6
+  - first:
+      213: -5668606553147805035
+    second: inventroy_all_7
+  - first:
+      213: -1403400177644983318
+    second: inventroy_all_8
+  - first:
+      213: -4417515002285095146
+    second: inventroy_all_9
+  - first:
+      213: 6418798241350088434
+    second: inventroy_all_10
+  - first:
+      213: -1788597215279058065
+    second: inventroy_all_11
+  - first:
+      213: -449356407150835138
+    second: inventroy_all_12
+  - first:
+      213: 6132192619175181456
+    second: inventroy_all_13
+  - first:
+      213: -6985116619513112057
+    second: inventroy_all_14
+  - first:
+      213: 584170431599952319
+    second: inventroy_all_15
+  - first:
+      213: 3928369339900265333
+    second: inventroy_all_16
+  - first:
+      213: 666968862244403073
+    second: inventroy_all_17
+  - first:
+      213: 6457994150744253616
+    second: inventroy_all_18
+  - first:
+      213: 6939134135587826764
+    second: inventroy_all_19
+  - first:
+      213: -4446786472760363209
+    second: inventroy_all_20
+  - first:
+      213: -3524868507813623988
+    second: inventroy_all_21
+  - first:
+      213: -5803315418974458751
+    second: inventroy_all_22
+  - first:
+      213: 5407974403693704969
+    second: inventroy_all_23
+  - first:
+      213: 1110726095496450643
+    second: inventroy_all_24
+  - first:
+      213: -949834381759518792
+    second: inventroy_all_25
+  - first:
+      213: 9035966871432077295
+    second: inventroy_all_26
+  - first:
+      213: -1794011979180889643
+    second: inventroy_all_27
+  - first:
+      213: -5075350434365563398
+    second: inventroy_all_28
+  - first:
+      213: -7170873588394304429
+    second: inventroy_all_29
+  - first:
+      213: 9148375506145497842
+    second: inventroy_all_30
+  - first:
+      213: 1976521418129637228
+    second: inventroy_all_31
+  - first:
+      213: -1889693946365463792
+    second: inventroy_all_32
+  - first:
+      213: -7162491715583162644
+    second: inventroy_all_33
+  - first:
+      213: 1735537975929376668
+    second: inventroy_all_34
+  - first:
+      213: -1040104491269664865
+    second: inventroy_all_35
+  - first:
+      213: -1859736473043718376
+    second: inventroy_all_36
+  - first:
+      213: 3489039702410291169
+    second: inventroy_all_37
+  - first:
+      213: -5172853826610461504
+    second: inventroy_all_38
+  - first:
+      213: 4296198212470354092
+    second: inventroy_all_39
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: inventroy_all_0
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 7614
+        width: 448
+        height: 1067
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 927d33a2467648b00800000000000000
+      internalID: 829901911245444905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inventroy_all_1
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 7609
+        width: 602
+        height: 1090
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 437430b93039dddf0800000000000000
+      internalID: -153805168565860556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inventroy_all_2
+      rect:
+        serializedVersion: 2
+        x: 2411
+        y: 7609
+        width: 690
+        height: 1090
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 028c17fb9c82b4610800000000000000
+      internalID: 1606422539053156384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inventroy_all_3
+      rect:
+        serializedVersion: 2
+        x: 3549
+        y: 7609
+        width: 734
+        height: 1090
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb1ac0d2eff945630800000000000000
+      internalID: 3914929890118115771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inventroy_all_4
+      rect:
+        serializedVersion: 2
+        x: 4806
+        y: 7605
+        width: 730
+        height: 1090
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f8ce5668315135c0800000000000000
+      internalID: -4237516471701419783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inventroy_all_5
+      rect:
+        serializedVersion: 2
+        x: 6116
+        y: 7609
+        width: 650
+        height: 1160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 401861def245a8ad0800000000000000
+      internalID: -2699252461837319932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inventroy_all_6
+      rect:
+        serializedVersion: 2
+        x: 7338
+        y: 7609
+        width: 650
+        height: 1160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ed8c5097d852970800000000000000
+      internalID: 8729539003655184029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inventroy_all_7
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 5760
+        width: 527
+        height: 1396
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5927c2c9f501551b0800000000000000
+      internalID: -5668606553147805035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inventroy_all_8
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 5764
+        width: 615
+        height: 1278
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeb20c559fe168ce0800000000000000
+      internalID: -1403400177644983318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inventroy_all_9
+      rect:
+        serializedVersion: 2
+        x: 2767
+        y: 5760
+        width: 628
+        height: 1142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61786daa285d1b2c0800000000000000
+      internalID: -4417515002285095146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inventroy_all_10
+      rect:
+        serializedVersion: 2
+        x: 3940
+        y: 5760
+        width: 602
+        height: 1060
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f6f2940ef6241950800000000000000
+      internalID: 6418798241350088434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inventroy_all_11
+      rect:
+        serializedVersion: 2
+        x: 5237
+        y: 5764
+        width: 536
+        height: 865
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f63f9012f40ad27e0800000000000000
+      internalID: -1788597215279058065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inventroy_all_12
+      rect:
+        serializedVersion: 2
+        x: 6384
+        y: 5772
+        width: 580
+        height: 866
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3a8a3e7ab093c9f0800000000000000
+      internalID: -449356407150835138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inventroy_all_13
+      rect:
+        serializedVersion: 2
+        x: 7597
+        y: 5759
+        width: 558
+        height: 870
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c753882bce91550800000000000000
+      internalID: 6132192619175181456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inventroy_all_14
+      rect:
+        serializedVersion: 2
+        x: 6461
+        y: 5151
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70a5e3b7171ef0f90800000000000000
+      internalID: -6985116619513112057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inventroy_all_15
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 4129
+        width: 541
+        height: 870
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb14dc799e36b1800800000000000000
+      internalID: 584170431599952319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inventroy_all_16
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 4133
+        width: 452
+        height: 866
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5738a4be91f548630800000000000000
+      internalID: 3928369339900265333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inventroy_all_17
+      rect:
+        serializedVersion: 2
+        x: 2738
+        y: 4852
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 187f25e75ac814900800000000000000
+      internalID: 666968862244403073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inventroy_all_18
+      rect:
+        serializedVersion: 2
+        x: 2793
+        y: 4129
+        width: 497
+        height: 870
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b469a4d6776f9950800000000000000
+      internalID: 6457994150744253616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inventroy_all_19
+      rect:
+        serializedVersion: 2
+        x: 4004
+        y: 4855
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4cef703bb1cc4060800000000000000
+      internalID: 6939134135587826764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inventroy_all_20
+      rect:
+        serializedVersion: 2
+        x: 4063
+        y: 4133
+        width: 536
+        height: 870
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7373b1b5347d942c0800000000000000
+      internalID: -4446786472760363209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inventroy_all_21
+      rect:
+        serializedVersion: 2
+        x: 5138
+        y: 4852
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c47cec784c6251fc0800000000000000
+      internalID: -3524868507813623988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inventroy_all_22
+      rect:
+        serializedVersion: 2
+        x: 5193
+        y: 4125
+        width: 597
+        height: 874
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18cea7caf5b767fa0800000000000000
+      internalID: -5803315418974458751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inventroy_all_23
+      rect:
+        serializedVersion: 2
+        x: 6230
+        y: 4129
+        width: 642
+        height: 874
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9077196411cfc0b40800000000000000
+      internalID: 5407974403693704969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inventroy_all_24
+      rect:
+        serializedVersion: 2
+        x: 7540
+        y: 4133
+        width: 641
+        height: 870
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35292dcbf771a6f00800000000000000
+      internalID: 1110726095496450643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inventroy_all_25
+      rect:
+        serializedVersion: 2
+        x: 5424
+        y: 3568
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b765c789a281d2f0800000000000000
+      internalID: -949834381759518792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inventroy_all_26
+      rect:
+        serializedVersion: 2
+        x: 7439
+        y: 2318
+        width: 979
+        height: 1283
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef18e5bef3366d70800000000000000
+      internalID: 9035966871432077295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inventroy_all_27
+      rect:
+        serializedVersion: 2
+        x: 5388
+        y: 3560
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d9a02a2c936a17e0800000000000000
+      internalID: -1794011979180889643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inventroy_all_28
+      rect:
+        serializedVersion: 2
+        x: 4263
+        y: 3489
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd14099babb099b0800000000000000
+      internalID: -5075350434365563398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inventroy_all_29
+      rect:
+        serializedVersion: 2
+        x: 6221
+        y: 2375
+        width: 875
+        height: 1134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35cd68ad670fb7c90800000000000000
+      internalID: -7170873588394304429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inventroy_all_30
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 2450
+        width: 642
+        height: 874
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f2dfab7d0f85fe70800000000000000
+      internalID: 9148375506145497842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inventroy_all_31
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2446
+        width: 646
+        height: 1025
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6f719af1c30e6b10800000000000000
+      internalID: 1976521418129637228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inventroy_all_32
+      rect:
+        serializedVersion: 2
+        x: 2833
+        y: 2450
+        width: 641
+        height: 874
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0133ea82e5576c5e0800000000000000
+      internalID: -1889693946365463792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inventroy_all_33
+      rect:
+        serializedVersion: 2
+        x: 4010
+        y: 2450
+        width: 704
+        height: 890
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce6ccf1bbb7b99c90800000000000000
+      internalID: -7162491715583162644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inventroy_all_34
+      rect:
+        serializedVersion: 2
+        x: 5136
+        y: 2424
+        width: 799
+        height: 993
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9f8875089ed51810800000000000000
+      internalID: 1735537975929376668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inventroy_all_35
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 363
+        width: 1041
+        height: 1437
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9f4594d97ec091f0800000000000000
+      internalID: -1040104491269664865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inventroy_all_36
+      rect:
+        serializedVersion: 2
+        x: 1523
+        y: 306
+        width: 1094
+        height: 1551
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81f2464f783e036e0800000000000000
+      internalID: -1859736473043718376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inventroy_all_37
+      rect:
+        serializedVersion: 2
+        x: 2982
+        y: 262
+        width: 1156
+        height: 1652
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e76665af1f8b6030800000000000000
+      internalID: 3489039702410291169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inventroy_all_38
+      rect:
+        serializedVersion: 2
+        x: 4591
+        y: 231
+        width: 1221
+        height: 1766
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c40dd50ad45638b0800000000000000
+      internalID: -5172853826610461504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: inventroy_all_39
+      rect:
+        serializedVersion: 2
+        x: 6103
+        y: 178
+        width: 1305
+        height: 1955
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca0b6f213892f9b30800000000000000
+      internalID: 4296198212470354092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 2b54580f29ac7c744a6387a8f22baa46
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
